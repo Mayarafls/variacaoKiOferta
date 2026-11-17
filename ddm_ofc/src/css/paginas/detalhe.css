@@ -1,0 +1,2 @@
+.detalhe-emoji { font-size:76px; text-align:center; background:var(--destaque-claro); border-radius:12px; padding:20px; }
+.detalhe-dados { display:flex; flex-direction:column; gap:7px; }

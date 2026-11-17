@@ -1,0 +1,8 @@
+@import url('./tokens.css');
+@import url('./base.css');
+@import url('./navbar/navbar.css');
+@import url('./paginas/inicio.css');
+@import url('./paginas/resultados.css');
+@import url('./paginas/detalhe.css');
+@import url('./paginas/publicar.css');
+@import url('./paginas/conta.css');

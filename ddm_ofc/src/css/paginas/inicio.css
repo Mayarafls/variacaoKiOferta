@@ -1,0 +1,5 @@
+.chamada { background:var(--destaque-claro); border-radius:14px; padding:20px; }
+.chamada .emoji { font-size:40px; }
+.busca-grande { display:flex; flex-direction:column; gap:9px; }
+.categorias { display:flex; flex-wrap:wrap; gap:8px; }
+.categorias button { background:white; color:var(--texto); border:1px solid var(--borda); }

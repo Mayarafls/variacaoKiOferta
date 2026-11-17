@@ -1,0 +1,2 @@
+.perfil { display:flex; gap:12px; align-items:center; }
+.avatar { background:var(--destaque-claro); border-radius:50%; padding:15px; font-size:28px; }
